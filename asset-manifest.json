@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.c36e00fa.chunk.css",
-    "main.js": "./static/js/main.0d6301eb.chunk.js",
-    "main.js.map": "./static/js/main.0d6301eb.chunk.js.map",
+    "main.js": "./static/js/main.19223550.chunk.js",
+    "main.js.map": "./static/js/main.19223550.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7f678454.js",
     "runtime-main.js.map": "./static/js/runtime-main.7f678454.js.map",
     "static/css/2.7c308806.chunk.css": "./static/css/2.7c308806.chunk.css",
@@ -91,13 +91,14 @@
     "static/media/striy.ad98db06.jpg": "./static/media/striy.ad98db06.jpg",
     "static/media/striy.d1fbe2bd.png": "./static/media/striy.d1fbe2bd.png",
     "static/media/svyati.24dacb69.png": "./static/media/svyati.24dacb69.png",
-    "static/media/vidbiy.3ae8d7d9.png": "./static/media/vidbiy.3ae8d7d9.png"
+    "static/media/vidbiy.3ae8d7d9.png": "./static/media/vidbiy.3ae8d7d9.png",
+    "static/media/zal_noice_0.6ecec73e.mp3": "./static/media/zal_noice_0.6ecec73e.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.7f678454.js",
     "static/css/2.7c308806.chunk.css",
     "static/js/2.5f15932c.chunk.js",
     "static/css/main.c36e00fa.chunk.css",
-    "static/js/main.0d6301eb.chunk.js"
+    "static/js/main.19223550.chunk.js"
   ]
 }
